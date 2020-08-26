@@ -1,0 +1,16 @@
+{
+  "name": "date-happy",
+  "version": "0.0.1",
+  "description": "a small date format library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": ["date-format","date-convert"],
+  "author": "JackChouMine <jackzhoumine@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jackchoumine/date-happy.git"
+  }
+}
